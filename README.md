@@ -19,7 +19,16 @@ Speed
 User experience
 
 ## Algorithm
-DIFFERENT PROMPT STRUCTURES
+1. Prepare a 500-word article on "The Basics of Blockchain Technology".
+2. Select five prompt structures: Basic, Role, Context, Constraint and Output Format.
+3. Apply these five prompt structures to the article using an AI platform and collect the generated summaries.
+4. Select three AI platforms: ChatGPT, Claude and Microsoft Copilot.
+5. Choose four prompting techniques: Zero-Shot, Few-Shot, Chain-of-Thought and Role-Based Prompting.
+6. Provide the same article and corresponding prompts to all three AI platforms.
+7. Collect the generated outputs and record their response times.
+8. Evaluate the AI-generated summaries based on Accuracy, Coherence, Simplicity, Speed and User Experience.
+9. Compare the results, calculate average scores and identify the most efficient AI platform and prompting technique.
+# DIFFERENT PROMPT STRUCTURES
 Application: Text Summarization
 
 Input Topic: The Basics of Blockchain Technology
@@ -148,7 +157,7 @@ Blockchain is a distributed digital ledger technology that stores information se
 
 Blockchain is an innovative technology that provides a secure, transparent, and decentralized method of storing and sharing information. It has several applications across different industries, although certain technical and operational limitations still exist.
 
-
+# Cross-Platform-Prompting-Evaluating
 ### Table 1: Prompt Details and AI Tools Used
 
 | S.No | Prompt Title               | Prompt Given                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | AI Tools Used                      |
@@ -158,7 +167,7 @@ Blockchain is an innovative technology that provides a secure, transparent, and 
 | 3    | Chain-of-Thought Prompting | Analyze the given article "The Basics of Blockchain Technology" step by step. Identify its main concepts, working process, key features, applications, and limitations. Organize the important points logically and prepare a clear, accurate, and concise summary in simple English suitable for undergraduate students. Avoid unnecessary technical details.                                                                                                                                                                            | ChatGPT, Claude, Microsoft Copilot |
 | 4    | Role-Based Prompting       | Act as an experienced computer science professor. Summarize the previously provided article "The Basics of Blockchain Technology" for undergraduate students. Explain the important concepts, working process, key features, applications, and limitations using simple English. Make the summary clear, informative, and easy to understand.                                                                                                                                                                                             | ChatGPT, Claude, Microsoft Copilot |
 
-### Table 3: Detailed AI Evaluation Scores
+### Table 2: Detailed AI Evaluation Scores
 
 | S.No | Prompt Title     | AI Tool | Accuracy | Coherence | Simplicity | Speed     | User Experience |
 | ---- | ---------------- | ------- | -------- | --------- | ---------- | --------- | --------------- |
@@ -186,4 +195,8 @@ Blockchain is an innovative technology that provides a secure, transparent, and 
 Scores are approximate averages across all four prompting techniques.
 ## Result
 
+The experiment was successfully conducted in two stages. In the first stage, five different prompt structures (Basic, Role, Context, Constraint and Output Format) were tested using a 500-word blockchain article to observe how prompt instructions influence the generated summaries.
 
+In the second stage, four prompting techniques (Zero-Shot, Few-Shot, Chain-of-Thought and Role-Based) were tested across ChatGPT, Claude and Microsoft Copilot, producing 12 AI-generated outputs.
+
+Overall, the experiment demonstrated how different prompt structures and prompting techniques influence AI-generated text summarization and helped compare the efficiency of different AI platforms.
